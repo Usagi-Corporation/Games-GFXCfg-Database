@@ -1,5 +1,5 @@
 # Games-GFXCfg-Database
-Liste de jeux ( Steam, GOG & Epic Games Store ) dont je joue personnellement et où vous trouverez les configurations graphiques optimisées pour garantir une bonne utilisation du matériel ( température &amp; qualité )
+Liste de jeux ( Steam, GOG, Battle.net & Epic Games Store ) dont je joue personnellement et où vous trouverez les configurations graphiques optimisées pour garantir une bonne utilisation du matériel ( température &amp; qualité )
 
 ## Configuration matérielle
 
