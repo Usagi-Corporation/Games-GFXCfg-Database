@@ -8,3 +8,4 @@ Liste de jeux dont je joue personnellement et où vous trouverez les configurati
 - Système d'exploitation : Windows 11 Famille version 21H2
 - Support disque dur OS : Western Digital 512 Go SSD (WDC PC SN530 SDBPNPZ-512G-1032)
 - Support Stockage Données : Seagate BarraCuda 2 To (ST2000DM008)
+- Carte Graphique : NVIDIA GeForce GTX 1650
