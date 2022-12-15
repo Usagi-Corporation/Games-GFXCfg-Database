@@ -9,3 +9,7 @@ Liste de jeux ( Steam, GOG & Epic Games Store ) dont je joue personnellement et 
 - Système d'exploitation : Windows 11 Famille version 21H2
 - Support disque dur OS : Western Digital 512 Go SSD (WDC PC SN530 SDBPNPZ-512G-1032)
 - Support Stockage Données : Seagate BarraCuda 2 To (ST2000DM008)
+
+## Où trouver les jeux présents dans la liste ?
+
+[En cours de rédaction]
