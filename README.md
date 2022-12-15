@@ -6,7 +6,7 @@ Liste de jeux ( Steam, GOG, Battle.net & Epic Games Store ) dont je joue personn
 - Processeur : Intel(R) Core(TM) i5-10400F CPU @ 2.90 GHZ
 - Mémoire RAM : 16 Go
 - Carte Graphique : NVIDIA GeForce GTX 1650
-- Système d'exploitation : Windows 11 Famille version 21H2
+- Système d'exploitation : Windows 11 Famille version 21H2 - 64 bits
 - Support disque dur OS : Western Digital 512 Go SSD (WDC PC SN530 SDBPNPZ-512G-1032)
 - Support Stockage Données : Seagate BarraCuda 2 To (ST2000DM008)
 
