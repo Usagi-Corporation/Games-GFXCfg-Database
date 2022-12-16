@@ -1,7 +1,9 @@
 # Games-GFXCfg-Database
 Liste de jeux ( Steam, GOG, Battle.net & Epic Games Store ) dont je joue personnellement et où vous trouverez les configurations graphiques optimisées pour garantir une bonne utilisation du matériel ( température &amp; qualité )
 
-## Configuration matérielle
+Objectif du projet : Eviter toute dépendance avec NVIDIA GeForce Expérience qui force tous les jeux en configuration ultra après CHAQUE mise à jour de driver ! ( parce qu'il check uniquement en fonction du GPU au lieu de check aussi la RAM, l'OS et le CPU )
+
+## Ma configuration matérielle personnelle
 
 - Processeur : Intel(R) Core(TM) i5-10400F CPU @ 2.90 GHZ
 - Mémoire RAM : 16 Go
