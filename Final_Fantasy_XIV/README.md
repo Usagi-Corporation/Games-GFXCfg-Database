@@ -1,0 +1,5 @@
+![alt text](https://github.com/Jackobo-Usagi/Games-GFXCfg-Database/blob/main/Final_Fantasy_XIV/config-1.png?raw=true)
+![alt text](https://github.com/Jackobo-Usagi/Games-GFXCfg-Database/blob/main/Final_Fantasy_XIV/config-2.png?raw=true)
+![alt text](https://github.com/Jackobo-Usagi/Games-GFXCfg-Database/blob/main/Final_Fantasy_XIV/config-3.png?raw=true)
+![alt text](https://github.com/Jackobo-Usagi/Games-GFXCfg-Database/blob/main/Final_Fantasy_XIV/config-4.png?raw=true)
+![alt text](https://github.com/Jackobo-Usagi/Games-GFXCfg-Database/blob/main/Final_Fantasy_XIV/config-5.png?raw=true)
